@@ -53,3 +53,5 @@ The `Test` class provides separate methods for:
 - Handling invalid data
 - Removing outdated books
 - Ensuring business rules (e.g., can't buy demo books, not enough stock)
+![Capturef](https://github.com/user-attachments/assets/c664c844-4fd1-4c9b-8488-3306f70bd318)
+
