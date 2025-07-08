@@ -41,7 +41,8 @@ src/
 │   └── EBookPurchaseDTO.java
 ├── service/
 │   └── BookService.java
-├── Test.java
+├── test/
+│   └── Test.java
 └── Main.java
 ```
 
