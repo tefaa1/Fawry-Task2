@@ -23,7 +23,7 @@ The system supports three book types:
 The system uses a layered structure with packages for:
 - **model**: Book base class and its subclasses.
 - **dto**: Data Transfer Objects for handling input data like `PurchaseDTO`, `PaperBookPurchaseDTO`, `EBookPurchaseDTO`.
-- **service**: Business logic handled by `BookstoreService`.
+- **service**: Business logic handled by `BookService`.
 - **Test**: Contains methods for testing different functionalities.
 
 ## Project Files
